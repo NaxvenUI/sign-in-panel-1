@@ -85,7 +85,7 @@ No build step required. Clone or download the project and open `index.html` dire
 
 ```bash
 git clone https://github.com/NaxvenUI/sign-in-panel-1.git
-cd sign-in
+cd newsletter_card_1
 ```
 
 2. Open the file in your browser:
